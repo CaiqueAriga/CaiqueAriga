@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Caique ariga
+# 👩🏻‍💻 Caique Ariga
 
 **`Analista de Dados`**
 
