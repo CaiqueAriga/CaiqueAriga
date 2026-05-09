@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Caique Ariga, tenho 23 anos e sou natural do Rio de Janeiro, e hoje resido em São Paulo. Atualmente estou cursando ensino superior na área de Banco de Dados.
+Me chamo Caique Ariga, tenho 23 anos e sou natural do Rio de Janeiro, e hoje resido em São Paulo. Atualmente estou cursando ensino superior na área de Ciência de Dados.
 
 Tenho grande interesse em tecnologia e estou constantemente aprimorando minhas habilidades técnicas e analíticas, buscando aplicar na prática conhecimentos relacionados a bancos de dados, lógica e organização de sistemas. Sou proativo, dedicado ao aprendizado contínuo e orientado a resultados.
 
